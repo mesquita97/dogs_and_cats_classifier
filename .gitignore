@@ -1,8 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 # Jupyter Notebook
-.ipynb_checkpoints
+*.ipynb_checkpoints
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
-/dataset_cats_and_dogs
+dataset_cats_and_dogs
 
